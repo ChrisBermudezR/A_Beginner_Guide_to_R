@@ -2,6 +2,8 @@
 
 Exercicies from the book "A Beginner's Guide to R" of Zuur et al. 2009
 
+![](Portada.png)
+
 Zuur, A. F., Ieno, E. N., & Meesters, E. H. (2009). **A Beginner's Guide to R** (p. 150). New York: Springer.
 
 ```
